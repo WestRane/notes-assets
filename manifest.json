@@ -1,0 +1,2680 @@
+{
+  "images": {
+    "anime-anilist-100049": {
+      "banner": "anime/anilist-100049.webp",
+      "poster": "anime/anilist-100049.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:22:06.085Z"
+    },
+    "anime-anilist-100093": {
+      "banner": "anime/anilist-100093.webp",
+      "poster": "anime/anilist-100093.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:22:08.268Z"
+    },
+    "anime-anilist-100112": {
+      "banner": "anime/anilist-100112.webp",
+      "poster": "anime/anilist-100112.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:22:10.437Z"
+    },
+    "anime-anilist-100182": {
+      "banner": "anime/anilist-100182.webp",
+      "poster": "anime/anilist-100182.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:22:12.616Z"
+    },
+    "anime-anilist-100256": {
+      "banner": "anime/anilist-100256.webp",
+      "poster": "anime/anilist-100256.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:22:14.800Z"
+    },
+    "anime-anilist-100668": {
+      "banner": "anime/anilist-100668.webp",
+      "poster": "anime/anilist-100668.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:22:16.983Z"
+    },
+    "anime-anilist-100855": {
+      "banner": "anime/anilist-100855.webp",
+      "poster": "anime/anilist-100855.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:22:19.167Z"
+    },
+    "anime-anilist-100876": {
+      "banner": "anime/anilist-100876.webp",
+      "poster": "anime/anilist-100876.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:22:21.333Z"
+    },
+    "anime-anilist-100878": {
+      "banner": "anime/anilist-100878.webp",
+      "poster": "anime/anilist-100878.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:22:23.502Z"
+    },
+    "anime-anilist-100922": {
+      "banner": "anime/anilist-100922.webp",
+      "poster": "anime/anilist-100922.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:22:25.674Z"
+    },
+    "anime-anilist-100977": {
+      "banner": "anime/anilist-100977.webp",
+      "poster": "anime/anilist-100977.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:22:27.846Z"
+    },
+    "anime-anilist-101227": {
+      "banner": "anime/anilist-101227.webp",
+      "poster": "anime/anilist-101227.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:22:32.209Z"
+    },
+    "anime-anilist-101291": {
+      "banner": "anime/anilist-101291.webp",
+      "poster": "anime/anilist-101291.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:22:34.393Z"
+    },
+    "anime-anilist-101432": {
+      "banner": "anime/anilist-101432.webp",
+      "poster": "anime/anilist-101432.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:22:36.574Z"
+    },
+    "anime-anilist-101474": {
+      "banner": "anime/anilist-101474.webp",
+      "poster": "anime/anilist-101474.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:22:38.742Z"
+    },
+    "anime-anilist-10162": {
+      "banner": "anime/anilist-10162.webp",
+      "poster": "anime/anilist-10162.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:22:40.927Z"
+    },
+    "anime-anilist-10165": {
+      "banner": "anime/anilist-10165.webp",
+      "poster": "anime/anilist-10165.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:22:43.098Z"
+    },
+    "anime-anilist-101921": {
+      "banner": "anime/anilist-101921.webp",
+      "poster": "anime/anilist-101921.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:22:45.281Z"
+    },
+    "anime-anilist-102976": {
+      "banner": "anime/anilist-102976.webp",
+      "poster": "anime/anilist-102976.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:22:47.463Z"
+    },
+    "anime-anilist-103139": {
+      "banner": "anime/anilist-103139.webp",
+      "poster": "anime/anilist-103139.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:22:49.643Z"
+    },
+    "anime-anilist-103275": {
+      "banner": "anime/anilist-103275.webp",
+      "poster": "anime/anilist-103275.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:22:51.828Z"
+    },
+    "anime-anilist-103572": {
+      "banner": "anime/anilist-103572.webp",
+      "poster": "anime/anilist-103572.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:22:53.998Z"
+    },
+    "anime-anilist-104157": {
+      "banner": "anime/anilist-104157.webp",
+      "poster": "anime/anilist-104157.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:22:56.167Z"
+    },
+    "anime-anilist-104217": {
+      "banner": "anime/anilist-104217.webp",
+      "poster": "anime/anilist-104217.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:22:58.352Z"
+    },
+    "anime-anilist-104454": {
+      "banner": "anime/anilist-104454.webp",
+      "poster": "anime/anilist-104454.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:23:00.519Z"
+    },
+    "anime-anilist-104459": {
+      "banner": "anime/anilist-104459.webp",
+      "poster": "anime/anilist-104459.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:23:02.682Z"
+    },
+    "anime-anilist-104460": {
+      "banner": "anime/anilist-104460.webp",
+      "poster": "anime/anilist-104460.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:23:04.845Z"
+    },
+    "anime-anilist-104461": {
+      "banner": "anime/anilist-104461.webp",
+      "poster": "anime/anilist-104461.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:23:07.023Z"
+    },
+    "anime-anilist-104580": {
+      "banner": "anime/anilist-104580.webp",
+      "poster": "anime/anilist-104580.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:23:09.196Z"
+    },
+    "anime-anilist-104647": {
+      "banner": "anime/anilist-104647.webp",
+      "poster": "anime/anilist-104647.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:23:11.363Z"
+    },
+    "anime-anilist-10491": {
+      "banner": "anime/anilist-10491.webp",
+      "poster": "anime/anilist-10491.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:23:13.535Z"
+    },
+    "anime-anilist-10495": {
+      "banner": "anime/anilist-10495.webp",
+      "poster": "anime/anilist-10495.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:23:15.707Z"
+    },
+    "anime-anilist-105074": {
+      "banner": "anime/anilist-105074.webp",
+      "poster": "anime/anilist-105074.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:23:17.880Z"
+    },
+    "anime-anilist-105156": {
+      "banner": "anime/anilist-105156.webp",
+      "poster": "anime/anilist-105156.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:23:20.064Z"
+    },
+    "anime-anilist-10521": {
+      "banner": "anime/anilist-10521.webp",
+      "poster": "anime/anilist-10521.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:23:22.245Z"
+    },
+    "anime-anilist-105310": {
+      "banner": "anime/anilist-105310.webp",
+      "poster": "anime/anilist-105310.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:23:24.424Z"
+    },
+    "anime-anilist-105333": {
+      "banner": "anime/anilist-105333.webp",
+      "poster": "anime/anilist-105333.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:23:26.609Z"
+    },
+    "anime-anilist-105662": {
+      "banner": "anime/anilist-105662.webp",
+      "poster": "anime/anilist-105662.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:23:28.783Z"
+    },
+    "anime-anilist-10568": {
+      "banner": "anime/anilist-10568.webp",
+      "poster": "anime/anilist-10568.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:23:30.960Z"
+    },
+    "anime-anilist-105914": {
+      "banner": "anime/anilist-105914.webp",
+      "poster": "anime/anilist-105914.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:23:33.147Z"
+    },
+    "anime-anilist-106286": {
+      "banner": "anime/anilist-106286.webp",
+      "poster": "anime/anilist-106286.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:23:35.316Z"
+    },
+    "anime-anilist-106479": {
+      "banner": "anime/anilist-106479.webp",
+      "poster": "anime/anilist-106479.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:23:37.497Z"
+    },
+    "anime-anilist-106509": {
+      "banner": "anime/anilist-106509.webp",
+      "poster": "anime/anilist-106509.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:23:39.668Z"
+    },
+    "anime-anilist-107067": {
+      "banner": "anime/anilist-107067.webp",
+      "poster": "anime/anilist-107067.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:23:41.852Z"
+    },
+    "anime-anilist-107201": {
+      "banner": "anime/anilist-107201.webp",
+      "poster": "anime/anilist-107201.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:23:44.035Z"
+    },
+    "anime-anilist-107226": {
+      "banner": "anime/anilist-107226.webp",
+      "poster": "anime/anilist-107226.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:23:46.215Z"
+    },
+    "anime-anilist-107622": {
+      "banner": "anime/anilist-107622.webp",
+      "poster": "anime/anilist-107622.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:23:48.391Z"
+    },
+    "anime-anilist-107717": {
+      "banner": "anime/anilist-107717.webp",
+      "poster": "anime/anilist-107717.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:23:50.567Z"
+    },
+    "anime-anilist-107871": {
+      "banner": "anime/anilist-107871.webp",
+      "poster": "anime/anilist-107871.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:23:52.745Z"
+    },
+    "anime-anilist-107956": {
+      "banner": "anime/anilist-107956.webp",
+      "poster": "anime/anilist-107956.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:23:54.930Z"
+    },
+    "anime-anilist-108092": {
+      "banner": "anime/anilist-108092.webp",
+      "poster": "anime/anilist-108092.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:23:57.112Z"
+    },
+    "anime-anilist-108268": {
+      "banner": "anime/anilist-108268.webp",
+      "poster": "anime/anilist-108268.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:23:59.294Z"
+    },
+    "anime-anilist-108465": {
+      "banner": "anime/anilist-108465.webp",
+      "poster": "anime/anilist-108465.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:24:01.467Z"
+    },
+    "anime-anilist-108489": {
+      "banner": "anime/anilist-108489.webp",
+      "poster": "anime/anilist-108489.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:24:03.661Z"
+    },
+    "anime-anilist-108511": {
+      "banner": "anime/anilist-108511.webp",
+      "poster": "anime/anilist-108511.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:24:05.822Z"
+    },
+    "anime-anilist-10863": {
+      "banner": "anime/anilist-10863.webp",
+      "poster": "anime/anilist-10863.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:24:07.985Z"
+    },
+    "anime-anilist-108631": {
+      "banner": "anime/anilist-108631.webp",
+      "poster": "anime/anilist-108631.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:24:10.168Z"
+    },
+    "anime-anilist-108632": {
+      "banner": "anime/anilist-108632.webp",
+      "poster": "anime/anilist-108632.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:24:12.353Z"
+    },
+    "anime-anilist-108725": {
+      "banner": "anime/anilist-108725.webp",
+      "poster": "anime/anilist-108725.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:24:14.531Z"
+    },
+    "anime-anilist-108759": {
+      "banner": "anime/anilist-108759.webp",
+      "poster": "anime/anilist-108759.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:24:16.717Z"
+    },
+    "anime-anilist-109019": {
+      "banner": "anime/anilist-109019.webp",
+      "poster": "anime/anilist-109019.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:24:18.913Z"
+    },
+    "anime-anilist-109020": {
+      "banner": "anime/anilist-109020.webp",
+      "poster": "anime/anilist-109020.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:24:21.084Z"
+    },
+    "anime-anilist-109819": {
+      "banner": "anime/anilist-109819.webp",
+      "poster": "anime/anilist-109819.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:24:23.251Z"
+    },
+    "anime-anilist-11013": {
+      "banner": "anime/anilist-11013.webp",
+      "poster": "anime/anilist-11013.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:24:25.420Z"
+    },
+    "anime-anilist-110178": {
+      "banner": "anime/anilist-110178.webp",
+      "poster": "anime/anilist-110178.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:24:27.586Z"
+    },
+    "anime-anilist-110277": {
+      "banner": "anime/anilist-110277.webp",
+      "poster": "anime/anilist-110277.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:24:29.759Z"
+    },
+    "anime-anilist-11111": {
+      "banner": "anime/anilist-11111.webp",
+      "poster": "anime/anilist-11111.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:24:31.941Z"
+    },
+    "anime-anilist-111321": {
+      "banner": "anime/anilist-111321.webp",
+      "poster": "anime/anilist-111321.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:24:34.116Z"
+    },
+    "anime-anilist-111322": {
+      "banner": "anime/anilist-111322.webp",
+      "poster": "anime/anilist-111322.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:24:36.298Z"
+    },
+    "anime-anilist-111428": {
+      "banner": "anime/anilist-111428.webp",
+      "poster": "anime/anilist-111428.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:24:38.471Z"
+    },
+    "anime-anilist-112124": {
+      "banner": "anime/anilist-112124.webp",
+      "poster": "anime/anilist-112124.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:24:40.647Z"
+    },
+    "anime-anilist-112300": {
+      "banner": "anime/anilist-112300.webp",
+      "poster": "anime/anilist-112300.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:24:42.826Z"
+    },
+    "anime-anilist-112301": {
+      "banner": "anime/anilist-112301.webp",
+      "poster": "anime/anilist-112301.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:24:45.006Z"
+    },
+    "anime-anilist-112323": {
+      "banner": "anime/anilist-112323.webp",
+      "poster": "anime/anilist-112323.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:24:47.174Z"
+    },
+    "anime-anilist-112443": {
+      "banner": "anime/anilist-112443.webp",
+      "poster": "anime/anilist-112443.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:24:49.352Z"
+    },
+    "anime-anilist-112472": {
+      "banner": null,
+      "poster": "anime/anilist-112472.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T20:51:08.005Z"
+    },
+    "anime-anilist-112608": {
+      "banner": "anime/anilist-112608.webp",
+      "poster": "anime/anilist-112608.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:24:53.715Z"
+    },
+    "anime-anilist-112609": {
+      "banner": "anime/anilist-112609.webp",
+      "poster": "anime/anilist-112609.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:24:55.900Z"
+    },
+    "anime-anilist-112625": {
+      "banner": "anime/anilist-112625.webp",
+      "poster": "anime/anilist-112625.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:24:58.109Z"
+    },
+    "anime-anilist-112641": {
+      "banner": "anime/anilist-112641.webp",
+      "poster": "anime/anilist-112641.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:25:00.280Z"
+    },
+    "anime-anilist-112802": {
+      "banner": "anime/anilist-112802.webp",
+      "poster": "anime/anilist-112802.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:25:02.474Z"
+    },
+    "anime-anilist-113311": {
+      "banner": "anime/anilist-113311.webp",
+      "poster": "anime/anilist-113311.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:25:04.656Z"
+    },
+    "anime-anilist-113418": {
+      "banner": "anime/anilist-113418.webp",
+      "poster": "anime/anilist-113418.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:25:06.850Z"
+    },
+    "anime-anilist-113425": {
+      "banner": "anime/anilist-113425.webp",
+      "poster": "anime/anilist-113425.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:25:09.033Z"
+    },
+    "anime-anilist-113693": {
+      "banner": "anime/anilist-113693.webp",
+      "poster": "anime/anilist-113693.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:25:11.215Z"
+    },
+    "anime-anilist-113811": {
+      "banner": "anime/anilist-113811.webp",
+      "poster": "anime/anilist-113811.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:25:13.395Z"
+    },
+    "anime-anilist-113813": {
+      "banner": "anime/anilist-113813.webp",
+      "poster": "anime/anilist-113813.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:25:15.587Z"
+    },
+    "anime-anilist-113936": {
+      "banner": "anime/anilist-113936.webp",
+      "poster": "anime/anilist-113936.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:25:17.757Z"
+    },
+    "anime-anilist-114232": {
+      "banner": "anime/anilist-114232.webp",
+      "poster": "anime/anilist-114232.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:25:19.918Z"
+    },
+    "anime-anilist-114236": {
+      "banner": "anime/anilist-114236.webp",
+      "poster": "anime/anilist-114236.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:25:22.113Z"
+    },
+    "anime-anilist-114302": {
+      "banner": "anime/anilist-114302.webp",
+      "poster": "anime/anilist-114302.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:25:24.282Z"
+    },
+    "anime-anilist-114308": {
+      "banner": "anime/anilist-114308.webp",
+      "poster": "anime/anilist-114308.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:25:26.466Z"
+    },
+    "anime-anilist-114340": {
+      "banner": "anime/anilist-114340.webp",
+      "poster": "anime/anilist-114340.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:25:28.636Z"
+    },
+    "anime-anilist-114446": {
+      "banner": "anime/anilist-114446.webp",
+      "poster": "anime/anilist-114446.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:25:30.813Z"
+    },
+    "anime-anilist-114535": {
+      "banner": "anime/anilist-114535.webp",
+      "poster": "anime/anilist-114535.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:25:32.994Z"
+    },
+    "anime-anilist-114862": {
+      "banner": "anime/anilist-114862.webp",
+      "poster": "anime/anilist-114862.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:25:35.180Z"
+    },
+    "anime-anilist-114888": {
+      "banner": "anime/anilist-114888.webp",
+      "poster": "anime/anilist-114888.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:25:37.364Z"
+    },
+    "anime-anilist-114981": {
+      "banner": null,
+      "poster": "anime/anilist-114981.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T20:51:10.189Z"
+    },
+    "anime-anilist-115230": {
+      "banner": "anime/anilist-115230.webp",
+      "poster": "anime/anilist-115230.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:25:41.724Z"
+    },
+    "anime-anilist-11577": {
+      "banner": "anime/anilist-11577.webp",
+      "poster": "anime/anilist-11577.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:25:43.910Z"
+    },
+    "anime-anilist-116588": {
+      "banner": "anime/anilist-116588.webp",
+      "poster": "anime/anilist-116588.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:25:46.070Z"
+    },
+    "anime-anilist-116741": {
+      "banner": "anime/anilist-116741.webp",
+      "poster": "anime/anilist-116741.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:25:48.244Z"
+    },
+    "anime-anilist-116742": {
+      "banner": "anime/anilist-116742.webp",
+      "poster": "anime/anilist-116742.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:25:50.411Z"
+    },
+    "anime-anilist-11741": {
+      "banner": "anime/anilist-11741.webp",
+      "poster": "anime/anilist-11741.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:25:52.581Z"
+    },
+    "anime-anilist-117496": {
+      "banner": null,
+      "poster": "anime/anilist-117496.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T20:51:12.389Z"
+    },
+    "anime-anilist-117612": {
+      "banner": "anime/anilist-117612.webp",
+      "poster": "anime/anilist-117612.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:25:56.927Z"
+    },
+    "anime-anilist-118103": {
+      "banner": "anime/anilist-118103.webp",
+      "poster": "anime/anilist-118103.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:25:59.110Z"
+    },
+    "anime-anilist-11843": {
+      "banner": "anime/anilist-11843.webp",
+      "poster": "anime/anilist-11843.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:26:01.292Z"
+    },
+    "anime-anilist-119661": {
+      "banner": "anime/anilist-119661.webp",
+      "poster": "anime/anilist-119661.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:26:03.458Z"
+    },
+    "anime-anilist-11977": {
+      "banner": "anime/anilist-11977.webp",
+      "poster": "anime/anilist-11977.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:26:05.630Z"
+    },
+    "anime-anilist-11979": {
+      "banner": "anime/anilist-11979.webp",
+      "poster": "anime/anilist-11979.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:26:07.811Z"
+    },
+    "anime-anilist-11981": {
+      "banner": "anime/anilist-11981.webp",
+      "poster": "anime/anilist-11981.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:26:09.997Z"
+    },
+    "anime-anilist-120608": {
+      "banner": "anime/anilist-120608.webp",
+      "poster": "anime/anilist-120608.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:26:12.169Z"
+    },
+    "anime-anilist-120646": {
+      "banner": "anime/anilist-120646.webp",
+      "poster": "anime/anilist-120646.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:26:14.359Z"
+    },
+    "anime-anilist-120697": {
+      "banner": "anime/anilist-120697.webp",
+      "poster": "anime/anilist-120697.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:26:16.527Z"
+    },
+    "anime-anilist-120700": {
+      "banner": null,
+      "poster": "anime/anilist-120700.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T20:51:14.582Z"
+    },
+    "anime-anilist-121": {
+      "banner": "anime/anilist-121.webp",
+      "poster": "anime/anilist-121.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:26:20.897Z"
+    },
+    "anime-anilist-1210": {
+      "banner": "anime/anilist-1210.webp",
+      "poster": "anime/anilist-1210.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:26:23.078Z"
+    },
+    "anime-anilist-121176": {
+      "banner": "anime/anilist-121176.webp",
+      "poster": "anime/anilist-121176.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:26:25.254Z"
+    },
+    "anime-anilist-122808": {
+      "banner": "anime/anilist-122808.webp",
+      "poster": "anime/anilist-122808.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:26:27.428Z"
+    },
+    "anime-anilist-12291": {
+      "banner": "anime/anilist-12291.webp",
+      "poster": "anime/anilist-12291.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:26:29.604Z"
+    },
+    "anime-anilist-123901": {
+      "banner": "anime/anilist-123901.webp",
+      "poster": "anime/anilist-123901.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:26:31.765Z"
+    },
+    "anime-anilist-124080": {
+      "banner": "anime/anilist-124080.webp",
+      "poster": "anime/anilist-124080.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:26:33.942Z"
+    },
+    "anime-anilist-124896": {
+      "banner": "anime/anilist-124896.webp",
+      "poster": "anime/anilist-124896.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:26:36.119Z"
+    },
+    "anime-anilist-125124": {
+      "banner": "anime/anilist-125124.webp",
+      "poster": "anime/anilist-125124.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:26:38.312Z"
+    },
+    "anime-anilist-125367": {
+      "banner": "anime/anilist-125367.webp",
+      "poster": "anime/anilist-125367.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:26:40.493Z"
+    },
+    "anime-anilist-125368": {
+      "banner": "anime/anilist-125368.webp",
+      "poster": "anime/anilist-125368.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:26:42.671Z"
+    },
+    "anime-anilist-12565": {
+      "banner": "anime/anilist-12565.webp",
+      "poster": "anime/anilist-12565.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:26:44.848Z"
+    },
+    "anime-anilist-126213": {
+      "banner": "anime/anilist-126213.webp",
+      "poster": "anime/anilist-126213.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:26:47.019Z"
+    },
+    "anime-anilist-126529": {
+      "banner": "anime/anilist-126529.webp",
+      "poster": "anime/anilist-126529.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:26:49.199Z"
+    },
+    "anime-anilist-12685": {
+      "banner": "anime/anilist-12685.webp",
+      "poster": "anime/anilist-12685.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:26:51.372Z"
+    },
+    "anime-anilist-127050": {
+      "banner": "anime/anilist-127050.webp",
+      "poster": "anime/anilist-127050.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:26:53.555Z"
+    },
+    "anime-anilist-127720": {
+      "banner": "anime/anilist-127720.webp",
+      "poster": "anime/anilist-127720.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:26:57.904Z"
+    },
+    "anime-anilist-128712": {
+      "banner": "anime/anilist-128712.webp",
+      "poster": "anime/anilist-128712.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:27:00.086Z"
+    },
+    "anime-anilist-128893": {
+      "banner": "anime/anilist-128893.webp",
+      "poster": "anime/anilist-128893.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:27:02.260Z"
+    },
+    "anime-anilist-129190": {
+      "banner": "anime/anilist-129190.webp",
+      "poster": "anime/anilist-129190.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:27:04.423Z"
+    },
+    "anime-anilist-129191": {
+      "banner": "anime/anilist-129191.webp",
+      "poster": "anime/anilist-129191.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:27:06.600Z"
+    },
+    "anime-anilist-129196": {
+      "banner": "anime/anilist-129196.webp",
+      "poster": "anime/anilist-129196.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:27:08.774Z"
+    },
+    "anime-anilist-129201": {
+      "banner": "anime/anilist-129201.webp",
+      "poster": "anime/anilist-129201.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:27:10.941Z"
+    },
+    "anime-anilist-129898": {
+      "banner": "anime/anilist-129898.webp",
+      "poster": "anime/anilist-129898.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:27:13.121Z"
+    },
+    "anime-anilist-130003": {
+      "banner": "anime/anilist-130003.webp",
+      "poster": "anime/anilist-130003.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:27:15.297Z"
+    },
+    "anime-anilist-130166": {
+      "banner": "anime/anilist-130166.webp",
+      "poster": "anime/anilist-130166.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:27:17.482Z"
+    },
+    "anime-anilist-130298": {
+      "banner": "anime/anilist-130298.webp",
+      "poster": "anime/anilist-130298.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:27:19.651Z"
+    },
+    "anime-anilist-130588": {
+      "banner": "anime/anilist-130588.webp",
+      "poster": "anime/anilist-130588.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:27:21.839Z"
+    },
+    "anime-anilist-130592": {
+      "banner": "anime/anilist-130592.webp",
+      "poster": "anime/anilist-130592.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:27:24.015Z"
+    },
+    "anime-anilist-130713": {
+      "banner": null,
+      "poster": "anime/anilist-130713.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T20:51:16.783Z"
+    },
+    "anime-anilist-131019": {
+      "banner": "anime/anilist-131019.webp",
+      "poster": "anime/anilist-131019.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:27:28.379Z"
+    },
+    "anime-anilist-131083": {
+      "banner": "anime/anilist-131083.webp",
+      "poster": "anime/anilist-131083.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:27:30.558Z"
+    },
+    "anime-anilist-13125": {
+      "banner": "anime/anilist-13125.webp",
+      "poster": "anime/anilist-13125.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:27:32.737Z"
+    },
+    "anime-anilist-131565": {
+      "banner": "anime/anilist-131565.webp",
+      "poster": "anime/anilist-131565.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:27:34.902Z"
+    },
+    "anime-anilist-131681": {
+      "banner": "anime/anilist-131681.webp",
+      "poster": "anime/anilist-131681.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:27:37.077Z"
+    },
+    "anime-anilist-132096": {
+      "banner": "anime/anilist-132096.webp",
+      "poster": "anime/anilist-132096.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:27:39.248Z"
+    },
+    "anime-anilist-132405": {
+      "banner": "anime/anilist-132405.webp",
+      "poster": "anime/anilist-132405.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:27:41.430Z"
+    },
+    "anime-anilist-132474": {
+      "banner": "anime/anilist-132474.webp",
+      "poster": "anime/anilist-132474.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:27:43.602Z"
+    },
+    "anime-anilist-132532": {
+      "banner": "anime/anilist-132532.webp",
+      "poster": "anime/anilist-132532.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:28:45.873Z"
+    },
+    "anime-anilist-133175": {
+      "banner": null,
+      "poster": "anime/anilist-133175.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T20:51:18.994Z"
+    },
+    "anime-anilist-133844": {
+      "banner": "anime/anilist-133844.webp",
+      "poster": "anime/anilist-133844.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:28:50.222Z"
+    },
+    "anime-anilist-133845": {
+      "banner": "anime/anilist-133845.webp",
+      "poster": "anime/anilist-133845.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:28:52.392Z"
+    },
+    "anime-anilist-133965": {
+      "banner": "anime/anilist-133965.webp",
+      "poster": "anime/anilist-133965.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:28:54.556Z"
+    },
+    "anime-anilist-134252": {
+      "banner": "anime/anilist-134252.webp",
+      "poster": "anime/anilist-134252.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:28:56.737Z"
+    },
+    "anime-anilist-134413": {
+      "banner": null,
+      "poster": "anime/anilist-134413.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T20:51:21.197Z"
+    },
+    "anime-anilist-135806": {
+      "banner": "anime/anilist-135806.webp",
+      "poster": "anime/anilist-135806.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:29:01.076Z"
+    },
+    "anime-anilist-136430": {
+      "banner": "anime/anilist-136430.webp",
+      "poster": "anime/anilist-136430.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:29:03.265Z"
+    },
+    "anime-anilist-136707": {
+      "banner": "anime/anilist-136707.webp",
+      "poster": "anime/anilist-136707.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:29:05.436Z"
+    },
+    "anime-anilist-136804": {
+      "banner": "anime/anilist-136804.webp",
+      "poster": "anime/anilist-136804.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:29:07.617Z"
+    },
+    "anime-anilist-137281": {
+      "banner": "anime/anilist-137281.webp",
+      "poster": "anime/anilist-137281.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:29:09.784Z"
+    },
+    "anime-anilist-137312": {
+      "banner": "anime/anilist-137312.webp",
+      "poster": "anime/anilist-137312.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:29:12.075Z"
+    },
+    "anime-anilist-137804": {
+      "banner": null,
+      "poster": "anime/anilist-137804.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T20:51:23.404Z"
+    },
+    "anime-anilist-138424": {
+      "banner": "anime/anilist-138424.webp",
+      "poster": "anime/anilist-138424.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:29:16.427Z"
+    },
+    "anime-anilist-138882": {
+      "banner": "anime/anilist-138882.webp",
+      "poster": "anime/anilist-138882.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:29:18.623Z"
+    },
+    "anime-anilist-139369": {
+      "banner": null,
+      "poster": "anime/anilist-139369.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T20:51:25.592Z"
+    },
+    "anime-anilist-139449": {
+      "banner": "anime/anilist-139449.webp",
+      "poster": "anime/anilist-139449.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:29:22.959Z"
+    },
+    "anime-anilist-139587": {
+      "banner": "anime/anilist-139587.webp",
+      "poster": "anime/anilist-139587.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:29:25.123Z"
+    },
+    "anime-anilist-139648": {
+      "banner": null,
+      "poster": "anime/anilist-139648.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T20:51:27.787Z"
+    },
+    "anime-anilist-140439": {
+      "banner": "anime/anilist-140439.webp",
+      "poster": "anime/anilist-140439.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:29:29.468Z"
+    },
+    "anime-anilist-140457": {
+      "banner": "anime/anilist-140457.webp",
+      "poster": "anime/anilist-140457.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:29:31.629Z"
+    },
+    "anime-anilist-140643": {
+      "banner": "anime/anilist-140643.webp",
+      "poster": "anime/anilist-140643.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:29:33.795Z"
+    },
+    "anime-anilist-140960": {
+      "banner": "anime/anilist-140960.webp",
+      "poster": "anime/anilist-140960.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:29:35.964Z"
+    },
+    "anime-anilist-14131": {
+      "banner": "anime/anilist-14131.webp",
+      "poster": "anime/anilist-14131.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:29:38.137Z"
+    },
+    "anime-anilist-141391": {
+      "banner": "anime/anilist-141391.webp",
+      "poster": "anime/anilist-141391.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:29:40.318Z"
+    },
+    "anime-anilist-141774": {
+      "banner": "anime/anilist-141774.webp",
+      "poster": "anime/anilist-141774.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:29:42.487Z"
+    },
+    "anime-anilist-142074": {
+      "banner": "anime/anilist-142074.webp",
+      "poster": "anime/anilist-142074.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:29:44.658Z"
+    },
+    "anime-anilist-142193": {
+      "banner": "anime/anilist-142193.webp",
+      "poster": "anime/anilist-142193.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:29:46.832Z"
+    },
+    "anime-anilist-142838": {
+      "banner": "anime/anilist-142838.webp",
+      "poster": "anime/anilist-142838.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:29:49.018Z"
+    },
+    "anime-anilist-142914": {
+      "banner": null,
+      "poster": "anime/anilist-142914.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T20:51:29.983Z"
+    },
+    "anime-anilist-143270": {
+      "banner": "anime/anilist-143270.webp",
+      "poster": "anime/anilist-143270.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:29:53.366Z"
+    },
+    "anime-anilist-143271": {
+      "banner": "anime/anilist-143271.webp",
+      "poster": "anime/anilist-143271.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:29:55.536Z"
+    },
+    "anime-anilist-143338": {
+      "banner": "anime/anilist-143338.webp",
+      "poster": "anime/anilist-143338.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:29:57.715Z"
+    },
+    "anime-anilist-14345": {
+      "banner": "anime/anilist-14345.webp",
+      "poster": "anime/anilist-14345.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:29:59.879Z"
+    },
+    "anime-anilist-14355": {
+      "banner": "anime/anilist-14355.webp",
+      "poster": "anime/anilist-14355.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:30:02.043Z"
+    },
+    "anime-anilist-145140": {
+      "banner": "anime/anilist-145140.webp",
+      "poster": "anime/anilist-145140.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:30:04.224Z"
+    },
+    "anime-anilist-145545": {
+      "banner": "anime/anilist-145545.webp",
+      "poster": "anime/anilist-145545.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:30:06.399Z"
+    },
+    "anime-anilist-145728": {
+      "banner": "anime/anilist-145728.webp",
+      "poster": "anime/anilist-145728.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:30:08.568Z"
+    },
+    "anime-anilist-145815": {
+      "banner": null,
+      "poster": "anime/anilist-145815.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T20:51:32.170Z"
+    },
+    "anime-anilist-146065": {
+      "banner": "anime/anilist-146065.webp",
+      "poster": "anime/anilist-146065.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:30:12.904Z"
+    },
+    "anime-anilist-146066": {
+      "banner": "anime/anilist-146066.webp",
+      "poster": "anime/anilist-146066.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:30:15.071Z"
+    },
+    "anime-anilist-146722": {
+      "banner": "anime/anilist-146722.webp",
+      "poster": "anime/anilist-146722.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:30:17.240Z"
+    },
+    "anime-anilist-146984": {
+      "banner": "anime/anilist-146984.webp",
+      "poster": "anime/anilist-146984.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:30:19.424Z"
+    },
+    "anime-anilist-147105": {
+      "banner": "anime/anilist-147105.webp",
+      "poster": "anime/anilist-147105.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:30:21.598Z"
+    },
+    "anime-anilist-14713": {
+      "banner": "anime/anilist-14713.webp",
+      "poster": "anime/anilist-14713.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:30:23.762Z"
+    },
+    "anime-anilist-14741": {
+      "banner": "anime/anilist-14741.webp",
+      "poster": "anime/anilist-14741.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:30:25.934Z"
+    },
+    "anime-anilist-14753": {
+      "banner": null,
+      "poster": "anime/anilist-14753.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T20:51:34.370Z"
+    },
+    "anime-anilist-14813": {
+      "banner": "anime/anilist-14813.webp",
+      "poster": "anime/anilist-14813.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:30:30.298Z"
+    },
+    "anime-anilist-148969": {
+      "banner": "anime/anilist-148969.webp",
+      "poster": "anime/anilist-148969.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:30:32.473Z"
+    },
+    "anime-anilist-15051": {
+      "banner": "anime/anilist-15051.webp",
+      "poster": "anime/anilist-15051.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:30:34.644Z"
+    },
+    "anime-anilist-150672": {
+      "banner": "anime/anilist-150672.webp",
+      "poster": "anime/anilist-150672.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:30:36.816Z"
+    },
+    "anime-anilist-150695": {
+      "banner": "anime/anilist-150695.webp",
+      "poster": "anime/anilist-150695.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:30:38.984Z"
+    },
+    "anime-anilist-151384": {
+      "banner": "anime/anilist-151384.webp",
+      "poster": "anime/anilist-151384.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:30:41.152Z"
+    },
+    "anime-anilist-151514": {
+      "banner": "anime/anilist-151514.webp",
+      "poster": "anime/anilist-151514.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:30:43.321Z"
+    },
+    "anime-anilist-151801": {
+      "banner": "anime/anilist-151801.webp",
+      "poster": "anime/anilist-151801.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:30:45.490Z"
+    },
+    "anime-anilist-151807": {
+      "banner": "anime/anilist-151807.webp",
+      "poster": "anime/anilist-151807.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:30:47.661Z"
+    },
+    "anime-anilist-151847": {
+      "banner": "anime/anilist-151847.webp",
+      "poster": "anime/anilist-151847.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:30:49.846Z"
+    },
+    "anime-anilist-151898": {
+      "banner": null,
+      "poster": "anime/anilist-151898.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T20:51:36.568Z"
+    },
+    "anime-anilist-15225": {
+      "banner": "anime/anilist-15225.webp",
+      "poster": "anime/anilist-15225.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:30:54.191Z"
+    },
+    "anime-anilist-1535": {
+      "banner": "anime/anilist-1535.webp",
+      "poster": "anime/anilist-1535.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:30:56.359Z"
+    },
+    "anime-anilist-153518": {
+      "banner": "anime/anilist-153518.webp",
+      "poster": "anime/anilist-153518.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:30:58.529Z"
+    },
+    "anime-anilist-153629": {
+      "banner": "anime/anilist-153629.webp",
+      "poster": "anime/anilist-153629.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:31:00.714Z"
+    },
+    "anime-anilist-153800": {
+      "banner": "anime/anilist-153800.webp",
+      "poster": "anime/anilist-153800.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:31:02.885Z"
+    },
+    "anime-anilist-154587": {
+      "banner": "anime/anilist-154587.webp",
+      "poster": "anime/anilist-154587.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:31:05.059Z"
+    },
+    "anime-anilist-154967": {
+      "banner": "anime/anilist-154967.webp",
+      "poster": "anime/anilist-154967.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:31:07.228Z"
+    },
+    "anime-anilist-155783": {
+      "banner": "anime/anilist-155783.webp",
+      "poster": "anime/anilist-155783.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:31:09.409Z"
+    },
+    "anime-anilist-15583": {
+      "banner": "anime/anilist-15583.webp",
+      "poster": "anime/anilist-15583.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:31:11.579Z"
+    },
+    "anime-anilist-155908": {
+      "banner": "anime/anilist-155908.webp",
+      "poster": "anime/anilist-155908.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:31:13.749Z"
+    },
+    "anime-anilist-1575": {
+      "banner": "anime/anilist-1575.webp",
+      "poster": "anime/anilist-1575.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:31:15.919Z"
+    },
+    "anime-anilist-15879": {
+      "banner": "anime/anilist-15879.webp",
+      "poster": "anime/anilist-15879.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:31:18.092Z"
+    },
+    "anime-anilist-158927": {
+      "banner": "anime/anilist-158927.webp",
+      "poster": "anime/anilist-158927.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:31:20.260Z"
+    },
+    "anime-anilist-158928": {
+      "banner": "anime/anilist-158928.webp",
+      "poster": "anime/anilist-158928.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:31:22.439Z"
+    },
+    "anime-anilist-16099": {
+      "banner": null,
+      "poster": "anime/anilist-16099.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T20:51:38.753Z"
+    },
+    "anime-anilist-161474": {
+      "banner": "anime/anilist-161474.webp",
+      "poster": "anime/anilist-161474.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:31:26.783Z"
+    },
+    "anime-anilist-161645": {
+      "banner": "anime/anilist-161645.webp",
+      "poster": "anime/anilist-161645.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:31:28.955Z"
+    },
+    "anime-anilist-162670": {
+      "banner": "anime/anilist-162670.webp",
+      "poster": "anime/anilist-162670.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:31:31.131Z"
+    },
+    "anime-anilist-162804": {
+      "banner": "anime/anilist-162804.webp",
+      "poster": "anime/anilist-162804.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:31:33.316Z"
+    },
+    "anime-anilist-162983": {
+      "banner": "anime/anilist-162983.webp",
+      "poster": "anime/anilist-162983.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:31:35.487Z"
+    },
+    "anime-anilist-163132": {
+      "banner": "anime/anilist-163132.webp",
+      "poster": "anime/anilist-163132.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:31:37.653Z"
+    },
+    "anime-anilist-163134": {
+      "banner": "anime/anilist-163134.webp",
+      "poster": "anime/anilist-163134.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:31:39.835Z"
+    },
+    "anime-anilist-163623": {
+      "banner": "anime/anilist-163623.webp",
+      "poster": "anime/anilist-163623.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:31:42.007Z"
+    },
+    "anime-anilist-16592": {
+      "banner": "anime/anilist-16592.webp",
+      "poster": "anime/anilist-16592.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:31:44.183Z"
+    },
+    "anime-anilist-166531": {
+      "banner": "anime/anilist-166531.webp",
+      "poster": "anime/anilist-166531.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:31:46.358Z"
+    },
+    "anime-anilist-166873": {
+      "banner": "anime/anilist-166873.webp",
+      "poster": "anime/anilist-166873.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:31:48.540Z"
+    },
+    "anime-anilist-16700": {
+      "banner": "anime/anilist-16700.webp",
+      "poster": "anime/anilist-16700.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:31:50.709Z"
+    },
+    "anime-anilist-167143": {
+      "banner": "anime/anilist-167143.webp",
+      "poster": "anime/anilist-167143.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:31:52.889Z"
+    },
+    "anime-anilist-167336": {
+      "banner": "anime/anilist-167336.webp",
+      "poster": "anime/anilist-167336.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:31:55.058Z"
+    },
+    "anime-anilist-16918": {
+      "banner": "anime/anilist-16918.webp",
+      "poster": "anime/anilist-16918.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:31:57.226Z"
+    },
+    "anime-anilist-171018": {
+      "banner": "anime/anilist-171018.webp",
+      "poster": "anime/anilist-171018.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:31:59.395Z"
+    },
+    "anime-anilist-171046": {
+      "banner": "anime/anilist-171046.webp",
+      "poster": "anime/anilist-171046.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:32:01.561Z"
+    },
+    "anime-anilist-171457": {
+      "banner": "anime/anilist-171457.webp",
+      "poster": "anime/anilist-171457.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:32:03.728Z"
+    },
+    "anime-anilist-172453": {
+      "banner": "anime/anilist-172453.webp",
+      "poster": "anime/anilist-172453.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:32:08.063Z"
+    },
+    "anime-anilist-17265": {
+      "banner": "anime/anilist-17265.webp",
+      "poster": "anime/anilist-17265.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:32:10.235Z"
+    },
+    "anime-anilist-173780": {
+      "banner": "anime/anilist-173780.webp",
+      "poster": "anime/anilist-173780.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:32:12.407Z"
+    },
+    "anime-anilist-17549": {
+      "banner": "anime/anilist-17549.webp",
+      "poster": "anime/anilist-17549.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:32:14.589Z"
+    },
+    "anime-anilist-176246": {
+      "banner": "anime/anilist-176246.webp",
+      "poster": "anime/anilist-176246.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:32:16.771Z"
+    },
+    "anime-anilist-176301": {
+      "banner": "anime/anilist-176301.webp",
+      "poster": "anime/anilist-176301.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:32:18.945Z"
+    },
+    "anime-anilist-176496": {
+      "banner": "anime/anilist-176496.webp",
+      "poster": "anime/anilist-176496.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:32:21.115Z"
+    },
+    "anime-anilist-177007": {
+      "banner": "anime/anilist-177007.webp",
+      "poster": "anime/anilist-177007.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:32:23.297Z"
+    },
+    "anime-anilist-177709": {
+      "banner": "anime/anilist-177709.webp",
+      "poster": "anime/anilist-177709.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:32:25.471Z"
+    },
+    "anime-anilist-177937": {
+      "banner": "anime/anilist-177937.webp",
+      "poster": "anime/anilist-177937.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:32:27.649Z"
+    },
+    "anime-anilist-17895": {
+      "banner": "anime/anilist-17895.webp",
+      "poster": "anime/anilist-17895.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:32:29.832Z"
+    },
+    "anime-anilist-179955": {
+      "banner": "anime/anilist-179955.webp",
+      "poster": "anime/anilist-179955.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:32:31.999Z"
+    },
+    "anime-anilist-179966": {
+      "banner": "anime/anilist-179966.webp",
+      "poster": "anime/anilist-179966.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:32:34.177Z"
+    },
+    "anime-anilist-180292": {
+      "banner": "anime/anilist-180292.webp",
+      "poster": "anime/anilist-180292.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:32:36.352Z"
+    },
+    "anime-anilist-180367": {
+      "banner": "anime/anilist-180367.webp",
+      "poster": "anime/anilist-180367.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:32:38.536Z"
+    },
+    "anime-anilist-181444": {
+      "banner": "anime/anilist-181444.webp",
+      "poster": "anime/anilist-181444.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:32:40.712Z"
+    },
+    "anime-anilist-18153": {
+      "banner": "anime/anilist-18153.webp",
+      "poster": "anime/anilist-18153.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:32:42.890Z"
+    },
+    "anime-anilist-182255": {
+      "banner": "anime/anilist-182255.webp",
+      "poster": "anime/anilist-182255.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:32:45.074Z"
+    },
+    "anime-anilist-182309": {
+      "banner": "anime/anilist-182309.webp",
+      "poster": "anime/anilist-182309.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:32:47.261Z"
+    },
+    "anime-anilist-182417": {
+      "banner": null,
+      "poster": "anime/anilist-182417.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T20:51:40.943Z"
+    },
+    "anime-anilist-182587": {
+      "banner": "anime/anilist-182587.webp",
+      "poster": "anime/anilist-182587.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:32:51.594Z"
+    },
+    "anime-anilist-185939": {
+      "banner": "anime/anilist-185939.webp",
+      "poster": "anime/anilist-185939.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:32:53.768Z"
+    },
+    "anime-anilist-18671": {
+      "banner": "anime/anilist-18671.webp",
+      "poster": "anime/anilist-18671.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:32:55.936Z"
+    },
+    "anime-anilist-1887": {
+      "banner": "anime/anilist-1887.webp",
+      "poster": "anime/anilist-1887.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:32:58.103Z"
+    },
+    "anime-anilist-1889": {
+      "banner": "anime/anilist-1889.webp",
+      "poster": "anime/anilist-1889.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:33:00.276Z"
+    },
+    "anime-anilist-189117": {
+      "banner": "anime/anilist-189117.webp",
+      "poster": "anime/anilist-189117.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:33:02.448Z"
+    },
+    "anime-anilist-19363": {
+      "banner": "anime/anilist-19363.webp",
+      "poster": "anime/anilist-19363.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:33:04.622Z"
+    },
+    "anime-anilist-19603": {
+      "banner": "anime/anilist-19603.webp",
+      "poster": "anime/anilist-19603.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:33:06.793Z"
+    },
+    "anime-anilist-19815": {
+      "banner": "anime/anilist-19815.webp",
+      "poster": "anime/anilist-19815.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:33:08.958Z"
+    },
+    "anime-anilist-199111": {
+      "banner": "anime/anilist-199111.webp",
+      "poster": "anime/anilist-199111.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:33:11.143Z"
+    },
+    "anime-anilist-20447": {
+      "banner": "anime/anilist-20447.webp",
+      "poster": "anime/anilist-20447.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:33:13.327Z"
+    },
+    "anime-anilist-20457": {
+      "banner": "anime/anilist-20457.webp",
+      "poster": "anime/anilist-20457.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:33:15.501Z"
+    },
+    "anime-anilist-20474": {
+      "banner": "anime/anilist-20474.webp",
+      "poster": "anime/anilist-20474.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:33:17.675Z"
+    },
+    "anime-anilist-20541": {
+      "banner": "anime/anilist-20541.webp",
+      "poster": "anime/anilist-20541.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:33:22.026Z"
+    },
+    "anime-anilist-20605": {
+      "banner": "anime/anilist-20605.webp",
+      "poster": "anime/anilist-20605.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:33:24.211Z"
+    },
+    "anime-anilist-20661": {
+      "banner": "anime/anilist-20661.webp",
+      "poster": "anime/anilist-20661.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:33:26.387Z"
+    },
+    "anime-anilist-20665": {
+      "banner": "anime/anilist-20665.webp",
+      "poster": "anime/anilist-20665.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:33:28.571Z"
+    },
+    "anime-anilist-20668": {
+      "banner": "anime/anilist-20668.webp",
+      "poster": "anime/anilist-20668.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:33:31.004Z"
+    },
+    "anime-anilist-20671": {
+      "banner": "anime/anilist-20671.webp",
+      "poster": "anime/anilist-20671.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:33:33.180Z"
+    },
+    "anime-anilist-20694": {
+      "banner": "anime/anilist-20694.webp",
+      "poster": "anime/anilist-20694.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:33:35.363Z"
+    },
+    "anime-anilist-20698": {
+      "banner": "anime/anilist-20698.webp",
+      "poster": "anime/anilist-20698.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:33:37.526Z"
+    },
+    "anime-anilist-20722": {
+      "banner": "anime/anilist-20722.webp",
+      "poster": "anime/anilist-20722.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:33:39.707Z"
+    },
+    "anime-anilist-20754": {
+      "banner": "anime/anilist-20754.webp",
+      "poster": "anime/anilist-20754.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:33:41.881Z"
+    },
+    "anime-anilist-20765": {
+      "banner": null,
+      "poster": "anime/anilist-20765.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T20:51:43.137Z"
+    },
+    "anime-anilist-20771": {
+      "banner": "anime/anilist-20771.webp",
+      "poster": "anime/anilist-20771.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:33:46.223Z"
+    },
+    "anime-anilist-20799": {
+      "banner": "anime/anilist-20799.webp",
+      "poster": "anime/anilist-20799.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:33:48.396Z"
+    },
+    "anime-anilist-20807": {
+      "banner": "anime/anilist-20807.webp",
+      "poster": "anime/anilist-20807.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:33:50.570Z"
+    },
+    "anime-anilist-20819": {
+      "banner": "anime/anilist-20819.webp",
+      "poster": "anime/anilist-20819.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:33:52.750Z"
+    },
+    "anime-anilist-20832": {
+      "banner": "anime/anilist-20832.webp",
+      "poster": "anime/anilist-20832.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:33:54.925Z"
+    },
+    "anime-anilist-20910": {
+      "banner": "anime/anilist-20910.webp",
+      "poster": "anime/anilist-20910.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:33:57.114Z"
+    },
+    "anime-anilist-20912": {
+      "banner": "anime/anilist-20912.webp",
+      "poster": "anime/anilist-20912.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:33:59.278Z"
+    },
+    "anime-anilist-20954": {
+      "banner": "anime/anilist-20954.webp",
+      "poster": "anime/anilist-20954.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:34:01.455Z"
+    },
+    "anime-anilist-20966": {
+      "banner": "anime/anilist-20966.webp",
+      "poster": "anime/anilist-20966.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:34:03.632Z"
+    },
+    "anime-anilist-20984": {
+      "banner": "anime/anilist-20984.webp",
+      "poster": "anime/anilist-20984.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:34:05.794Z"
+    },
+    "anime-anilist-20987": {
+      "banner": "anime/anilist-20987.webp",
+      "poster": "anime/anilist-20987.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:34:07.962Z"
+    },
+    "anime-anilist-21049": {
+      "banner": "anime/anilist-21049.webp",
+      "poster": "anime/anilist-21049.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:34:10.134Z"
+    },
+    "anime-anilist-21051": {
+      "banner": "anime/anilist-21051.webp",
+      "poster": "anime/anilist-21051.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:34:12.306Z"
+    },
+    "anime-anilist-21058": {
+      "banner": "anime/anilist-21058.webp",
+      "poster": "anime/anilist-21058.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:34:14.484Z"
+    },
+    "anime-anilist-21087": {
+      "banner": "anime/anilist-21087.webp",
+      "poster": "anime/anilist-21087.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:34:16.644Z"
+    },
+    "anime-anilist-21127": {
+      "banner": "anime/anilist-21127.webp",
+      "poster": "anime/anilist-21127.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:34:18.804Z"
+    },
+    "anime-anilist-21131": {
+      "banner": "anime/anilist-21131.webp",
+      "poster": "anime/anilist-21131.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:34:20.973Z"
+    },
+    "anime-anilist-21202": {
+      "banner": "anime/anilist-21202.webp",
+      "poster": "anime/anilist-21202.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:34:23.154Z"
+    },
+    "anime-anilist-21234": {
+      "banner": "anime/anilist-21234.webp",
+      "poster": "anime/anilist-21234.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:34:25.333Z"
+    },
+    "anime-anilist-21281": {
+      "banner": "anime/anilist-21281.webp",
+      "poster": "anime/anilist-21281.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:34:27.499Z"
+    },
+    "anime-anilist-21284": {
+      "banner": "anime/anilist-21284.webp",
+      "poster": "anime/anilist-21284.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:34:29.668Z"
+    },
+    "anime-anilist-21305": {
+      "banner": null,
+      "poster": "anime/anilist-21305.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T20:51:45.342Z"
+    },
+    "anime-anilist-21355": {
+      "banner": "anime/anilist-21355.webp",
+      "poster": "anime/anilist-21355.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:34:34.009Z"
+    },
+    "anime-anilist-21365": {
+      "banner": "anime/anilist-21365.webp",
+      "poster": "anime/anilist-21365.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:34:36.178Z"
+    },
+    "anime-anilist-21390": {
+      "banner": "anime/anilist-21390.webp",
+      "poster": "anime/anilist-21390.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:34:38.349Z"
+    },
+    "anime-anilist-21428": {
+      "banner": "anime/anilist-21428.webp",
+      "poster": "anime/anilist-21428.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:34:40.517Z"
+    },
+    "anime-anilist-21450": {
+      "banner": "anime/anilist-21450.webp",
+      "poster": "anime/anilist-21450.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:34:42.697Z"
+    },
+    "anime-anilist-21457": {
+      "banner": "anime/anilist-21457.webp",
+      "poster": "anime/anilist-21457.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:34:44.870Z"
+    },
+    "anime-anilist-21495": {
+      "banner": "anime/anilist-21495.webp",
+      "poster": "anime/anilist-21495.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:34:47.051Z"
+    },
+    "anime-anilist-21574": {
+      "banner": "anime/anilist-21574.webp",
+      "poster": "anime/anilist-21574.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:34:49.223Z"
+    },
+    "anime-anilist-21595": {
+      "banner": "anime/anilist-21595.webp",
+      "poster": "anime/anilist-21595.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:34:51.382Z"
+    },
+    "anime-anilist-21613": {
+      "banner": "anime/anilist-21613.webp",
+      "poster": "anime/anilist-21613.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:34:53.565Z"
+    },
+    "anime-anilist-21626": {
+      "banner": "anime/anilist-21626.webp",
+      "poster": "anime/anilist-21626.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:34:55.733Z"
+    },
+    "anime-anilist-21685": {
+      "banner": "anime/anilist-21685.webp",
+      "poster": "anime/anilist-21685.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:34:57.919Z"
+    },
+    "anime-anilist-21699": {
+      "banner": "anime/anilist-21699.webp",
+      "poster": "anime/anilist-21699.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:35:00.081Z"
+    },
+    "anime-anilist-21704": {
+      "banner": "anime/anilist-21704.webp",
+      "poster": "anime/anilist-21704.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:35:02.258Z"
+    },
+    "anime-anilist-21778": {
+      "banner": "anime/anilist-21778.webp",
+      "poster": "anime/anilist-21778.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:35:04.438Z"
+    },
+    "anime-anilist-21780": {
+      "banner": null,
+      "poster": "anime/anilist-21780.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T20:51:47.535Z"
+    },
+    "anime-anilist-21786": {
+      "banner": null,
+      "poster": "anime/anilist-21786.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T20:51:49.757Z"
+    },
+    "anime-anilist-21800": {
+      "banner": null,
+      "poster": "anime/anilist-21800.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T20:51:51.958Z"
+    },
+    "anime-anilist-21804": {
+      "banner": "anime/anilist-21804.webp",
+      "poster": "anime/anilist-21804.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:35:13.141Z"
+    },
+    "anime-anilist-21827": {
+      "banner": "anime/anilist-21827.webp",
+      "poster": "anime/anilist-21827.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:35:15.313Z"
+    },
+    "anime-anilist-21857": {
+      "banner": "anime/anilist-21857.webp",
+      "poster": "anime/anilist-21857.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:35:17.483Z"
+    },
+    "anime-anilist-21860": {
+      "banner": "anime/anilist-21860.webp",
+      "poster": "anime/anilist-21860.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:35:19.678Z"
+    },
+    "anime-anilist-21862": {
+      "banner": null,
+      "poster": "anime/anilist-21862.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T20:51:54.147Z"
+    },
+    "anime-anilist-21878": {
+      "banner": "anime/anilist-21878.webp",
+      "poster": "anime/anilist-21878.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:35:24.003Z"
+    },
+    "anime-anilist-245": {
+      "banner": "anime/anilist-245.webp",
+      "poster": "anime/anilist-245.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:35:28.351Z"
+    },
+    "anime-anilist-2899": {
+      "banner": "anime/anilist-2899.webp",
+      "poster": "anime/anilist-2899.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:35:30.528Z"
+    },
+    "anime-anilist-2904": {
+      "banner": "anime/anilist-2904.webp",
+      "poster": "anime/anilist-2904.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:35:32.687Z"
+    },
+    "anime-anilist-2966": {
+      "banner": "anime/anilist-2966.webp",
+      "poster": "anime/anilist-2966.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:35:34.858Z"
+    },
+    "anime-anilist-30": {
+      "banner": "anime/anilist-30.webp",
+      "poster": "anime/anilist-30.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:35:37.019Z"
+    },
+    "anime-anilist-32": {
+      "banner": "anime/anilist-32.webp",
+      "poster": "anime/anilist-32.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:35:39.200Z"
+    },
+    "anime-anilist-339": {
+      "banner": "anime/anilist-339.webp",
+      "poster": "anime/anilist-339.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:35:41.377Z"
+    },
+    "anime-anilist-356": {
+      "banner": "anime/anilist-356.webp",
+      "poster": "anime/anilist-356.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:35:43.556Z"
+    },
+    "anime-anilist-3652": {
+      "banner": "anime/anilist-3652.webp",
+      "poster": "anime/anilist-3652.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:35:45.736Z"
+    },
+    "anime-anilist-3784": {
+      "banner": "anime/anilist-3784.webp",
+      "poster": "anime/anilist-3784.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:35:47.914Z"
+    },
+    "anime-anilist-3785": {
+      "banner": "anime/anilist-3785.webp",
+      "poster": "anime/anilist-3785.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:35:50.083Z"
+    },
+    "anime-anilist-3786": {
+      "banner": "anime/anilist-3786.webp",
+      "poster": "anime/anilist-3786.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:35:52.258Z"
+    },
+    "anime-anilist-387": {
+      "banner": "anime/anilist-387.webp",
+      "poster": "anime/anilist-387.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:35:54.554Z"
+    },
+    "anime-anilist-431": {
+      "banner": "anime/anilist-431.webp",
+      "poster": "anime/anilist-431.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:35:56.746Z"
+    },
+    "anime-anilist-4472": {
+      "banner": "anime/anilist-4472.webp",
+      "poster": "anime/anilist-4472.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:35:58.924Z"
+    },
+    "anime-anilist-4654": {
+      "banner": "anime/anilist-4654.webp",
+      "poster": "anime/anilist-4654.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:36:01.096Z"
+    },
+    "anime-anilist-4896": {
+      "banner": "anime/anilist-4896.webp",
+      "poster": "anime/anilist-4896.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:36:03.378Z"
+    },
+    "anime-anilist-5118": {
+      "banner": null,
+      "poster": "anime/anilist-5118.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T20:51:56.336Z"
+    },
+    "anime-anilist-528": {
+      "banner": "anime/anilist-528.webp",
+      "poster": "anime/anilist-528.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:36:07.698Z"
+    },
+    "anime-anilist-5341": {
+      "banner": "anime/anilist-5341.webp",
+      "poster": "anime/anilist-5341.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:36:09.880Z"
+    },
+    "anime-anilist-5630": {
+      "banner": "anime/anilist-5630.webp",
+      "poster": "anime/anilist-5630.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:36:12.061Z"
+    },
+    "anime-anilist-5680": {
+      "banner": "anime/anilist-5680.webp",
+      "poster": "anime/anilist-5680.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:36:14.246Z"
+    },
+    "anime-anilist-6007": {
+      "banner": "anime/anilist-6007.webp",
+      "poster": "anime/anilist-6007.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:36:16.420Z"
+    },
+    "anime-anilist-6064": {
+      "banner": null,
+      "poster": "anime/anilist-6064.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T20:51:58.525Z"
+    },
+    "anime-anilist-6884": {
+      "banner": null,
+      "poster": "anime/anilist-6884.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T20:52:00.725Z"
+    },
+    "anime-anilist-6956": {
+      "banner": "anime/anilist-6956.webp",
+      "poster": "anime/anilist-6956.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:36:22.940Z"
+    },
+    "anime-anilist-7017": {
+      "banner": "anime/anilist-7017.webp",
+      "poster": "anime/anilist-7017.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:36:25.111Z"
+    },
+    "anime-anilist-7593": {
+      "banner": "anime/anilist-7593.webp",
+      "poster": "anime/anilist-7593.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:36:27.280Z"
+    },
+    "anime-anilist-7791": {
+      "banner": "anime/anilist-7791.webp",
+      "poster": "anime/anilist-7791.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:36:29.436Z"
+    },
+    "anime-anilist-8425": {
+      "banner": "anime/anilist-8425.webp",
+      "poster": "anime/anilist-8425.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:36:31.605Z"
+    },
+    "anime-anilist-849": {
+      "banner": "anime/anilist-849.webp",
+      "poster": "anime/anilist-849.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:36:33.779Z"
+    },
+    "anime-anilist-918": {
+      "banner": "anime/anilist-918.webp",
+      "poster": "anime/anilist-918.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:36:35.961Z"
+    },
+    "anime-anilist-9203": {
+      "banner": "anime/anilist-9203.webp",
+      "poster": "anime/anilist-9203.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:36:38.134Z"
+    },
+    "anime-anilist-9253": {
+      "banner": "anime/anilist-9253.webp",
+      "poster": "anime/anilist-9253.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:36:40.317Z"
+    },
+    "anime-anilist-934": {
+      "banner": "anime/anilist-934.webp",
+      "poster": "anime/anilist-934.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:36:42.498Z"
+    },
+    "anime-anilist-9617": {
+      "banner": "anime/anilist-9617.webp",
+      "poster": "anime/anilist-9617.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:36:44.679Z"
+    },
+    "anime-anilist-9734": {
+      "banner": "anime/anilist-9734.webp",
+      "poster": "anime/anilist-9734.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:36:46.858Z"
+    },
+    "anime-anilist-9756": {
+      "banner": "anime/anilist-9756.webp",
+      "poster": "anime/anilist-9756.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:36:49.041Z"
+    },
+    "anime-anilist-97592": {
+      "banner": "anime/anilist-97592.webp",
+      "poster": "anime/anilist-97592.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:36:51.225Z"
+    },
+    "anime-anilist-97668": {
+      "banner": "anime/anilist-97668.webp",
+      "poster": "anime/anilist-97668.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:36:53.401Z"
+    },
+    "anime-anilist-97682": {
+      "banner": "anime/anilist-97682.webp",
+      "poster": "anime/anilist-97682.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:36:55.562Z"
+    },
+    "anime-anilist-97716": {
+      "banner": "anime/anilist-97716.webp",
+      "poster": "anime/anilist-97716.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:36:57.735Z"
+    },
+    "anime-anilist-97766": {
+      "banner": "anime/anilist-97766.webp",
+      "poster": "anime/anilist-97766.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:36:59.919Z"
+    },
+    "anime-anilist-97986": {
+      "banner": "anime/anilist-97986.webp",
+      "poster": "anime/anilist-97986.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:37:02.083Z"
+    },
+    "anime-anilist-97995": {
+      "banner": "anime/anilist-97995.webp",
+      "poster": "anime/anilist-97995.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:37:04.251Z"
+    },
+    "anime-anilist-97996": {
+      "banner": "anime/anilist-97996.webp",
+      "poster": "anime/anilist-97996.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:37:06.418Z"
+    },
+    "anime-anilist-98034": {
+      "banner": "anime/anilist-98034.webp",
+      "poster": "anime/anilist-98034.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:37:08.582Z"
+    },
+    "anime-anilist-98314": {
+      "banner": "anime/anilist-98314.webp",
+      "poster": "anime/anilist-98314.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:37:10.762Z"
+    },
+    "anime-anilist-98436": {
+      "banner": "anime/anilist-98436.webp",
+      "poster": "anime/anilist-98436.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:37:12.934Z"
+    },
+    "anime-anilist-98437": {
+      "banner": "anime/anilist-98437.webp",
+      "poster": "anime/anilist-98437.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:37:15.116Z"
+    },
+    "anime-anilist-98444": {
+      "banner": "anime/anilist-98444.webp",
+      "poster": "anime/anilist-98444.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:37:17.289Z"
+    },
+    "anime-anilist-98491": {
+      "banner": "anime/anilist-98491.webp",
+      "poster": "anime/anilist-98491.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:37:19.471Z"
+    },
+    "anime-anilist-98502": {
+      "banner": "anime/anilist-98502.webp",
+      "poster": "anime/anilist-98502.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:37:21.650Z"
+    },
+    "anime-anilist-98572": {
+      "banner": "anime/anilist-98572.webp",
+      "poster": "anime/anilist-98572.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:37:23.840Z"
+    },
+    "anime-anilist-98659": {
+      "banner": "anime/anilist-98659.webp",
+      "poster": "anime/anilist-98659.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:37:26.026Z"
+    },
+    "anime-anilist-99263": {
+      "banner": "anime/anilist-99263.webp",
+      "poster": "anime/anilist-99263.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:37:28.208Z"
+    },
+    "anime-anilist-99281": {
+      "banner": null,
+      "poster": "anime/anilist-99281.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T20:52:02.907Z"
+    },
+    "anime-anilist-99423": {
+      "banner": "anime/anilist-99423.webp",
+      "poster": "anime/anilist-99423.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:37:32.539Z"
+    },
+    "games-steam-214931": {
+      "banner": null,
+      "poster": null,
+      "source": "steam",
+      "checkedAt": "2026-09-28T20:51:47.543Z"
+    },
+    "games-steam-524220": {
+      "banner": "games/steam-524220.webp",
+      "poster": "games/steam-524220.webp",
+      "source": "steam",
+      "checkedAt": "2026-09-28T14:37:34.386Z"
+    },
+    "anime-anilist-99426": {
+      "banner": "anime/anilist-99426.webp",
+      "poster": "anime/anilist-99426.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:37:34.710Z"
+    },
+    "games-steam-739630": {
+      "banner": "games/steam-739630.webp",
+      "poster": "games/steam-739630.webp",
+      "source": "steam",
+      "checkedAt": "2026-09-28T14:37:34.933Z"
+    },
+    "games-steam-214932": {
+      "banner": null,
+      "poster": null,
+      "source": "steam",
+      "checkedAt": "2026-09-28T20:51:48.539Z"
+    },
+    "games-steam-960990": {
+      "banner": "games/steam-960990.webp",
+      "poster": "games/steam-960990.webp",
+      "source": "steam",
+      "checkedAt": "2026-09-28T14:37:35.181Z"
+    },
+    "games-steam-289070": {
+      "banner": "games/steam-289070.webp",
+      "poster": "games/steam-289070.webp",
+      "source": "steam",
+      "checkedAt": "2026-09-28T14:37:35.311Z"
+    },
+    "games-steam-292030": {
+      "banner": "games/steam-292030.webp",
+      "poster": "games/steam-292030.webp",
+      "source": "steam",
+      "checkedAt": "2026-09-28T14:37:35.449Z"
+    },
+    "games-steam-883710": {
+      "banner": "games/steam-883710.webp",
+      "poster": "games/steam-883710.webp",
+      "source": "steam",
+      "checkedAt": "2026-09-28T14:37:35.617Z"
+    },
+    "games-steam-1966720": {
+      "banner": "games/steam-1966720.webp",
+      "poster": "games/steam-1966720.webp",
+      "source": "steam",
+      "checkedAt": "2026-09-28T14:37:35.735Z"
+    },
+    "games-steam-2527500": {
+      "banner": "games/steam-2527500.webp",
+      "poster": "games/steam-2527500.webp",
+      "source": "steam",
+      "checkedAt": "2026-09-28T14:37:35.927Z"
+    },
+    "games-steam-221910": {
+      "banner": "games/steam-221910.webp",
+      "poster": "games/steam-221910.webp",
+      "source": "steam",
+      "checkedAt": "2026-09-28T14:37:36.144Z"
+    },
+    "games-steam-1989270": {
+      "banner": "games/steam-1989270.webp",
+      "poster": "games/steam-1989270.webp",
+      "source": "steam",
+      "checkedAt": "2026-09-28T14:37:36.292Z"
+    },
+    "games-steam-1903340": {
+      "banner": "games/steam-1903340.webp",
+      "poster": "games/steam-1903340.webp",
+      "source": "steam",
+      "checkedAt": "2026-09-28T14:37:36.320Z"
+    },
+    "games-steam-409710": {
+      "banner": "games/steam-409710.webp",
+      "poster": "games/steam-409710.webp",
+      "source": "steam",
+      "checkedAt": "2026-09-28T14:37:36.566Z"
+    },
+    "games-steam-409720": {
+      "banner": "games/steam-409720.webp",
+      "poster": "games/steam-409720.webp",
+      "source": "steam",
+      "checkedAt": "2026-09-28T14:37:36.803Z"
+    },
+    "anime-anilist-99468": {
+      "banner": "anime/anilist-99468.webp",
+      "poster": "anime/anilist-99468.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:37:36.877Z"
+    },
+    "games-steam-3313270": {
+      "banner": null,
+      "poster": null,
+      "source": "steam",
+      "checkedAt": "2026-09-28T20:51:48.992Z"
+    },
+    "games-steam-20920": {
+      "banner": "games/steam-20920.webp",
+      "poster": "games/steam-20920.webp",
+      "source": "steam",
+      "checkedAt": "2026-09-28T14:37:37.039Z"
+    },
+    "games-steam-331470": {
+      "banner": "games/steam-331470.webp",
+      "poster": "games/steam-331470.webp",
+      "source": "steam",
+      "checkedAt": "2026-09-28T14:37:37.288Z"
+    },
+    "games-steam-413410": {
+      "banner": "games/steam-413410.webp",
+      "poster": "games/steam-413410.webp",
+      "source": "steam",
+      "checkedAt": "2026-09-28T14:37:37.280Z"
+    },
+    "anime-anilist-99507": {
+      "banner": "anime/anilist-99507.webp",
+      "poster": "anime/anilist-99507.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:37:39.043Z"
+    },
+    "anime-anilist-99629": {
+      "banner": "anime/anilist-99629.webp",
+      "poster": "anime/anilist-99629.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:37:43.387Z"
+    },
+    "anime-anilist-99726": {
+      "banner": "anime/anilist-99726.webp",
+      "poster": "anime/anilist-99726.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:37:45.566Z"
+    },
+    "anime-anilist-99734": {
+      "banner": "anime/anilist-99734.webp",
+      "poster": "anime/anilist-99734.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:37:47.728Z"
+    },
+    "manga-anilist-100557": {
+      "banner": "manga/anilist-100557.webp",
+      "poster": "manga/anilist-100557.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:37:49.909Z"
+    },
+    "manga-anilist-102423": {
+      "banner": "manga/anilist-102423.webp",
+      "poster": "manga/anilist-102423.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:37:52.089Z"
+    },
+    "manga-anilist-102490": {
+      "banner": "manga/anilist-102490.webp",
+      "poster": "manga/anilist-102490.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:37:54.253Z"
+    },
+    "manga-anilist-105791": {
+      "banner": "manga/anilist-105791.webp",
+      "poster": "manga/anilist-105791.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:37:56.623Z"
+    },
+    "manga-anilist-108105": {
+      "banner": "manga/anilist-108105.webp",
+      "poster": "manga/anilist-108105.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:37:58.801Z"
+    },
+    "manga-anilist-123625": {
+      "banner": "manga/anilist-123625.webp",
+      "poster": "manga/anilist-123625.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:38:00.993Z"
+    },
+    "manga-anilist-38967": {
+      "banner": "manga/anilist-38967.webp",
+      "poster": "manga/anilist-38967.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:38:03.155Z"
+    },
+    "manga-anilist-55297": {
+      "banner": "manga/anilist-55297.webp",
+      "poster": "manga/anilist-55297.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:38:05.326Z"
+    },
+    "manga-anilist-63327": {
+      "banner": "manga/anilist-63327.webp",
+      "poster": "manga/anilist-63327.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:38:07.502Z"
+    },
+    "manga-anilist-67755": {
+      "banner": "manga/anilist-67755.webp",
+      "poster": "manga/anilist-67755.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:38:09.672Z"
+    },
+    "manga-anilist-85235": {
+      "banner": "manga/anilist-85235.webp",
+      "poster": "manga/anilist-85235.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:38:11.967Z"
+    },
+    "manga-anilist-85307": {
+      "banner": "manga/anilist-85307.webp",
+      "poster": "manga/anilist-85307.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:38:14.136Z"
+    },
+    "manga-anilist-85533": {
+      "banner": "manga/anilist-85533.webp",
+      "poster": "manga/anilist-85533.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:38:16.305Z"
+    },
+    "manga-anilist-86635": {
+      "banner": "manga/anilist-86635.webp",
+      "poster": "manga/anilist-86635.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:38:18.491Z"
+    },
+    "manga-anilist-86719": {
+      "banner": "manga/anilist-86719.webp",
+      "poster": "manga/anilist-86719.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:38:20.670Z"
+    },
+    "manga-anilist-86837": {
+      "banner": "manga/anilist-86837.webp",
+      "poster": "manga/anilist-86837.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:38:22.841Z"
+    },
+    "manga-anilist-87213": {
+      "banner": "manga/anilist-87213.webp",
+      "poster": "manga/anilist-87213.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:38:25.011Z"
+    },
+    "manga-anilist-87216": {
+      "banner": "manga/anilist-87216.webp",
+      "poster": "manga/anilist-87216.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:38:27.193Z"
+    },
+    "manga-anilist-97553": {
+      "banner": "manga/anilist-97553.webp",
+      "poster": "manga/anilist-97553.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:38:29.379Z"
+    },
+    "manga-anilist-99549": {
+      "banner": "manga/anilist-99549.webp",
+      "poster": "manga/anilist-99549.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:38:31.559Z"
+    },
+    "ranobe-anilist-39115": {
+      "banner": "ranobe/anilist-39115.webp",
+      "poster": "ranobe/anilist-39115.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:38:33.735Z"
+    },
+    "ranobe-anilist-70171": {
+      "banner": "ranobe/anilist-70171.webp",
+      "poster": "ranobe/anilist-70171.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:38:35.900Z"
+    },
+    "ranobe-anilist-83537": {
+      "banner": "ranobe/anilist-83537.webp",
+      "poster": "ranobe/anilist-83537.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:38:38.068Z"
+    },
+    "ranobe-anilist-85743": {
+      "banner": "ranobe/anilist-85743.webp",
+      "poster": "ranobe/anilist-85743.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:38:40.230Z"
+    },
+    "ranobe-anilist-86238": {
+      "banner": "ranobe/anilist-86238.webp",
+      "poster": "ranobe/anilist-86238.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:38:42.395Z"
+    },
+    "ranobe-anilist-98741": {
+      "banner": "ranobe/anilist-98741.webp",
+      "poster": "ranobe/anilist-98741.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T14:38:44.566Z"
+    },
+    "anime-anilist-99578": {
+      "banner": "anime/anilist-99578.webp",
+      "poster": "anime/anilist-99578.webp",
+      "source": "anilist",
+      "checkedAt": "2026-09-28T21:06:15.598Z"
+    }
+  }
+}
